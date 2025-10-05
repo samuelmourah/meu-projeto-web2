@@ -10,7 +10,7 @@
 
 body {
   background-color: var(--azul-claro);
-  font-family: 'Segoe UI', sans-serif;
+  font-family:impact,'Helvetica Neue', sans-serif;
   text-align: center;
   margin: 0;
   padding: 0;
@@ -18,21 +18,23 @@ body {
 
 h1 {
   color: var(--azul-escuro);
-  font-size: 36px;
+  font-size: 40px;
   margin: 30px 0 10px;
 }
 
 #placar {
   font-size: 18px;
   color: var(--azul-escuro);
-  margin-bottom: 20px;
+  margin-bottom: 0px;
+  font-family:'lucida sans', impact;
 }
 
 #vezDoJogador {
   font-size: 20px;
   margin-bottom: 25px;
   color: var(--azul-medio);
-  font-weight: bold;
+  font-weight:bl;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .tabuleiro {
