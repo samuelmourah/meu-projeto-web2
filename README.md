@@ -11,7 +11,7 @@ O jogo criado foi um  **Jogo da Velha** desenvolvido com **HTML**, **CSS** e **J
 
 ## 🚀 Demonstração
 
-👉 [Clique aqui para jogar no GitHub Pages](https://samuelmourah.github.io/jogo-da-velha/)
+👉 [Clique aqui para jogar no GitHub Pages](https://samuelmourah.github.io/meu-projeto-web2/)
 
 ---
 
